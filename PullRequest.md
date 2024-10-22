@@ -4,3 +4,4 @@ created for the other teams repo! If this document is not there and your link is
 there you will not get points for this."
 
 Russell Johnson - https://github.com/nmedari/Drahtesel/pull/1
+Terra Bawden - https://github.com/nmedari/Drahtesel/pull/4
